@@ -13,7 +13,7 @@ Claude составляет план уроков, проводит их в ча
 Нужен установленный Claude Code.
 
 ```bash
-git clone https://github.com/<owner>/vibeling-tutor.git
+git clone https://github.com/pavlenkovit/vibeling-tutor.git
 cd vibeling-tutor
 claude
 ```
