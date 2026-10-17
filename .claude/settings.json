@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__vibeling__get_profile",
+      "mcp__vibeling__create_link_code",
+      "mcp__vibeling__add_word",
+      "mcp__vibeling__list_tags",
+      "mcp__vibeling__create_tag",
+      "mcp__vibeling__tag_word",
+      "mcp__vibeling__my_words"
+    ]
+  }
+}
