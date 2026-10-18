@@ -1,8 +1,3 @@
 {
-  "mcpServers": {
-    "vibeling": {
-      "type": "http",
-      "url": "https://mcp.vibeling.app"
-    }
-  }
+  "mcpServers": {}
 }
